@@ -25,4 +25,4 @@ skill, dan proyek dalam bidang pengembangan website.
 - Tampilan responsive
 
 ## Live Preview
-Website dapat dijalankan menggunakan fitur Live Server pada Visual Studio Code.
+https://gus-putra.github.io/pemweb-tugas1-42530028/
